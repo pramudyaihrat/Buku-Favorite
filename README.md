@@ -6,6 +6,6 @@
     - ![The San Juan Mountains are beautiful!](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg)
     
 2. Outlier My Favorite Book [Outlier Malcolm Gladwell](https://www.goodreads.com/book/show/40121378-atomic-habits).
-    - ![The San Juan Mountains are beautiful!](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg)
+    - ![The San Juan Mountains are beautiful!]([https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg))
 
 
